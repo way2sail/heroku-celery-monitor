@@ -1,1 +1,2 @@
-flower
+celery==4.4.7
+flower==0.9.5
